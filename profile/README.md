@@ -1,13 +1,13 @@
-# Добро пожаловать в проект Kaya!
+## Welcome to Project Kaya!
 
-## Описание проекта
+## Project Description
 
-Kaya - это многофункциональный Discord-бот, который предоставляет различные возможности для управления сервером, включая модерацию, развлечения и другие функции.
+Kaya is a multifunctional Discord-bot that provides various features for server management, including moderation, entertainment and other functions.
 
-## Развитие проекта
+## Project Development
 
-Если вы хотите внести свой вклад в проект, просмотрите [CONTRIBUTING.md](CONTRIBUTING.md) для получения информации о вкладе и структуре проекта.
+If you would like to contribute to the project, please review [CONTRIBUTING.md](CONTRIBUTING.md) for information on contributions and project structure.
 
-## Контакт
+## Contact
 
-Для связи с нами или получения поддержки по вопросам разработки, присоединяйтесь к нашему серверу Discord: [Kaya Devs Community](https://discord.gg/ggg7dmRsvn).
+To contact us or for development support, join our Discord server: [Kaya Devs Community](https://discord.gg/ggg7dmRsvn).
