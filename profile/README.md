@@ -1,29 +1,61 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaya-devs&style=flat-square&color=green&label=PROFILE+VIEWS" />
+
+# 💜 Kaya Bot
+
+<img src="https://komarev.com/ghpvc/?username=kaya-devs&style=flat-square&color=green&label=ARCHIVED+PROFILE+VIEWS" />
+
 </div>
 
+---
+
+## About the Project
+
+Kaya is a multifunctional Discord bot designed for server management, moderation, and providing useful tools for the community.
+
+The project began as an independent initiative and has now become fully integrated into the Heypers ecosystem.
+
+---
+
+## Project Status
+
+⚠️ **Archived**
+
+Active development of Kaya within this organization is no longer taking place.
+
+Current projects and ongoing development are being handled here:
+
+🌐 https://github.com/heypers
+🌍 https://www.heypers.org
+
+---
+
+## History
+
+Kaya Bot was created to explore the process of Discord bot development, automation, and the creation of community engagement tools.
+
+Thank you to everyone who has used the bot, supported it, and contributed to it throughout its lifespan.
+
+Maintaining a separate organization no longer makes sense, so the project is being fully absorbed into the Heypers ecosystem.
+
+The bot will continue to be developed and supported.
+
+---
+
+## Support
+
+Kaya community resources remain available to users on the [Discord server](https://discord.gg/ggg7dmRsvn).
+
+Current Heypers projects and official communication channels:
+
+- Website: https://www.heypers.org
+- GitHub: https://github.com/heypers
+
+---
 
 <div align="center">
-    <h2>💜 About Us</h2>
-    <p> Welcome to the Kaya Project, a multifunctional Discord bot designed to enhance your server management experience with a variety of features including moderation, entertainment, and more.</p>
-</div>
 
-<div align="center">
-  <h2> Project Description </h2>
-  <p> Kaya is a versatile Discord bot that offers a range of functionalities for server management. Whether you need moderation tools, entertainment features, or other functions, Kaya has got you covered. </p>
-</div>
+**Kaya Dev's — a project that has become part of Heypers' history.**
 
-<div align="center">
-  <h2> Project Development </h2>
-  <p>If you're interested in contributing to the project, please take a look at our <a href="/CONTRIBUTING.md">CONTRIBUTING.md</a> file for guidelines on how to contribute and details about the project structure.</p>
-</div>
+© 2021 – Present, Heypers
 
-<h2 align="center" class="section-heading">💻 Programming Languages</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</div>
-
-<div align="center">
-  <h2>Contact</h2>
-  <p>For any inquiries or development support, feel free to join our Discord server:  <a href="https://discord.gg/ggg7dmRsvn">[Kaya Devs Community]</a></p>
 </div>
